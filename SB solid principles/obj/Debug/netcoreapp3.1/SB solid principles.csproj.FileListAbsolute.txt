@@ -1,0 +1,13 @@
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.exe
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.deps.json
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.runtimeconfig.json
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.runtimeconfig.dev.json
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.dll
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\bin\Debug\netcoreapp3.1\SB solid principles.pdb
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.csprojAssemblyReference.cache
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.AssemblyInfoInputs.cache
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.AssemblyInfo.cs
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.csproj.CoreCompileInputs.cache
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.dll
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.pdb
+C:\Users\Hassan\source\repos\SB solid principles\SB solid principles\obj\Debug\netcoreapp3.1\SB solid principles.genruntimeconfig.cache
